@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Farman Khan.<br>I'm a GenAI Engineer with 4+ years of experience building AI systems using Python, FastAPI, LangChain, LangGraph, <br>RAG, and vector search.<br>🔭 I'm currently working in Infosys as Associate Consultant<br><br>
+My name is Farman Khan.<br>I'm a GenAI Engineer with 5+ years of experience building AI systems using Python, FastAPI, LangChain, LangGraph, <br>RAG, and vector search.<br>🔭 I'm currently working in Infosys as Associate Consultant<br><br>
 
 
 ## 🌐 Socials:
